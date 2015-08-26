@@ -1,0 +1,1 @@
+javascript:(function(){jselem=document.createElement('SCRIPT');jselem.type='text/javascript';jselem.src='//YOURSERVER.com/path/to/script.js';document.getElementsByTagName('body')[0].appendChild(jselem);})();
